@@ -3,7 +3,7 @@
 I'm an italian developer and freelancer, and I mainly work with Python3 and Golang.
 I mostly work with chatbots (Telegram, Discord, Whatsapp...) but I've been getting into building websites and APIs.
 
-# My Freelance work
+# Freelance work
 I've been doing freelance work for half a year, and if you're interested you can contact me on any of the following:
 - [zyercasdoesstuf](https://www.fiverr.com/zyercasdoesstuf) (Fiverr)
 - [@Zyercas](https://t.me/Zyercas) (Telegram)
