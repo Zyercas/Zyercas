@@ -9,7 +9,7 @@ I've been doing freelance work for half a year, and if you're interested you can
 - [@Zyercas](https://t.me/Zyercas) (Telegram)
 - [zyercas@gmail.com](mailto:zyercas@gmail) (Email)
 
-As of the 02/04/2021 I have 100% 5-star ⭐ rating on Fiverr!
+I have 100% 5-star ⭐ rating on Fiverr!
 
 # About me
 - 🍼 I was born in Rome, and I live here to this day!
